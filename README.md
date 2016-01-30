@@ -8,4 +8,4 @@
 
 `linfit.py`: Function that returns a linear fit to input data which has error in one dimension. Outputs the coefficients of the linear fit as well as their corresponding standard deviations.
 
-`example.py`: Short script that tests the simple linear regression.
+`example.py`: Short script that tests the simple linear regression function `linreg.py`.
