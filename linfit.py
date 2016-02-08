@@ -5,7 +5,7 @@ def linfit( X, Y, Yerr):
     Summary
         Linear regression of y = a*x + b
     Usage
-        real, real, real, real = linreg(list, list)
+        real, real, real, real = linreg(list, list, list)
     fit data points [X,Y] with error in Y-values, Yerr
     to a line: f(x;a;b) = a*x + b
     Returns coefficients to the regression line "y=ax+b" from X and Y, Yerr
